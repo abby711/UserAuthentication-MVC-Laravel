@@ -12,7 +12,9 @@ Middleware : customerAuth.php<br>
 <br> A simple user login, register project with session handling that also performs form validations(checks username,email,password length and for password mismatch)
 On successfull register it routes to the login page where on successfull login, dashboard containg the current username os the session is also displayed along with the welcome message.
 
-<br><br>Model Demo of the website on localhost http://127.0.0.1:8000/ <br>
+<br><br>Model Demo of the website on localhost http://127.0.0.1:8000/ <br><br>
+
+![phpp](https://user-images.githubusercontent.com/65455645/122232064-96037980-ced8-11eb-9eb8-38f016deaaf5.gif)
 
 
 
